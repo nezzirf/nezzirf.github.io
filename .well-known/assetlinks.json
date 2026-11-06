@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nezzirf.colsdefrance",
+      "sha256_cert_fingerprints": [
+        "40:A1:70:0A:2B:AB:41:D5:38:F1:04:35:64:B8:98:CB:9D:D3:C3:A4:A8:92:41:A0:D7:8B:25:D3:35:0F:C0:00"
+      ]
+    }
+  }
+]
